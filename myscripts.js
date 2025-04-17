@@ -61,7 +61,7 @@ var titleArray = [
 
 // Set path to fullsize images
 
-var imgPath = "images/fullSize/";
+var imgPath = "images/fullsize/";
 
 
 // Function to swap images
